@@ -1,7 +1,38 @@
 {
   "schemaVersion": 1,
-  "exportedAt": 1790635055072,
+  "exportedAt": 1791715845292,
   "books": [
+    {
+      "title": "Kaca-Kaca BERDEBU",
+      "author": "Nurhayati Amir",
+      "publisher": "Mizan",
+      "publishedYear": 1987,
+      "genre": "Kumpulan Kisah Islami",
+      "language": "Indonesia",
+      "coverUrl": "covers/bd05e0a23e945c36.jpg",
+      "ageGroup": "above-10"
+    },
+    {
+      "title": "Sejuta Madu dalam Ternak Lebahku",
+      "author": "Suharno Prihutomo",
+      "publisher": "Balai Pustaka",
+      "publishedYear": 1985,
+      "genre": "Cerita Pendek",
+      "language": "Indonesia",
+      "coverUrl": "covers/0afc8fcb4af048f7.jpg",
+      "ageGroup": "above-10"
+    },
+    {
+      "title": "Amalan Ringan Paling Menakjubkan",
+      "author": "Syekh Ali Jaber",
+      "isbn": "9786023420995",
+      "publisher": "Zikrul Hakim",
+      "publishedYear": 2021,
+      "genre": "Kajian Agama Islam",
+      "language": "Indonesia",
+      "coverUrl": "covers/ce3474aba4b18804.jpg",
+      "ageGroup": "above-15"
+    },
     {
       "title": "Dompet Ayah Sepatu Ibu",
       "author": "J.S. Khairen",
