@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "exportedAt": 1791715922969,
+  "exportedAt": 1791727266695,
   "books": [
     {
       "title": "Kaca-Kaca BERDEBU",
@@ -32,14 +32,6 @@
       "language": "Indonesia",
       "coverUrl": "covers/ce3474aba4b18804.jpg",
       "ageGroup": "above-15"
-    },
-    {
-      "title": "Dompet Ayah Sepatu Ibu",
-      "author": "J.S. Khairen",
-      "isbn": "9786020530222",
-      "publisher": "Gramedia Widiasarana Indonesia",
-      "publishedYear": 2023,
-      "language": "Indonesia"
     }
   ]
 }
